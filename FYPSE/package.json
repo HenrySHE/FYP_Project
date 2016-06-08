@@ -1,5 +1,5 @@
 {
-  "name": "microscope",
+  "name": "FYPSE",
   "private": true,
   "scripts": {
     "start": "meteor run"
